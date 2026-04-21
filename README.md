@@ -2,7 +2,7 @@
 Python portfolio site deployed on AWS EC2 Ubuntu server
 
 # Live Demo
-http://3.134.88.210:5000/
+[http://3.134.88.210:5000/](https://www.noelviz.com/)
 
 # Overview
 This project is a personal portfolio website created with Python and Flask, then deployed on an Ubuntu server using Amazon EC2.
